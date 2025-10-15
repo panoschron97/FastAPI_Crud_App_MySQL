@@ -1,1 +1,0 @@
-# FastAPI_Crud_App_MySQL
