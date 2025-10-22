@@ -11,7 +11,7 @@ This repository demonstrates a basic CRUD (Create, Read, Update, Delete) applica
 
 ## Features
 
-*   **FastAPI Framework**: Utilizes FastAPI for building the API, leveraging its automatic data validation and interactive API documentation.
+*   **FastAPI Framework**: Utilizes FastAPI for building the API leveraging its automatic data validation and interactive API documentation.
 *   **MySQL Database**: Integrates with a MySQL database to store and manage data.
 *   **CRUD Operations**: Implements standard CRUD operations for managing information.
 *   **Data Models**: Defines Pydantic models for data validation and serialization.
