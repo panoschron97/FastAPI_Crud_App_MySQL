@@ -47,7 +47,7 @@ This repository demonstrates a basic CRUD (Create, Read, Update, Delete) applica
 2.  Configure the database connection: Modify the `database.py` file to reflect your MySQL credentials:
 
     ```python
-    db_url = "mysql://<username>:<password>@<host>:<port>/<database_name>"
+    db_url = "mysql://<your_mysql_username>:<password>@<host>:<port>/<your_mysql_databasename>"
     ```
 
 3.  Run the FastAPI application:
