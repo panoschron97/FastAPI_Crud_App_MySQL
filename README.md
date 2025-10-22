@@ -1,6 +1,6 @@
 # FastAPI crud app with MySQL
 
-This repository demonstrates a basic CRUD (Create, Read, Update, Delete) application built using FastAPI and MySQL, enhanced with LLM (Language Model) context for improved understanding and interaction. It provides a foundation for building more complex applications with a structured and maintainable codebase.
+This repository demonstrates a basic CRUD (Create, Read, Update, Delete) application built using FastAPI and MySQL enhanced with LLM (Language Model) context for improved understanding and interaction. It provides a foundation for building more complex applications with a structured and maintainable codebase.
 
 ## Table of Contents
 
