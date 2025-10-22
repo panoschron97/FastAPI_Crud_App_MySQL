@@ -23,7 +23,7 @@ This repository demonstrates a basic CRUD (Create, Read, Update, Delete) applica
 1.  Clone the repository:
 
     ```bash
-    git clone https://github.com/panoschron97/FastAPI_Crud_App_MySQL
+    git clone https://github.com/panoschron97/FastAPI_Crud_App_MySQL.git
     cd FastAPI_Crud_App_MySQL
     ```
 
