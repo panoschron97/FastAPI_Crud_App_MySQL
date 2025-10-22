@@ -1,6 +1,6 @@
 # Python FastAPI crud app with MySQL
 
-This repository demonstrates a basic CRUD (Create, Read, Update, Delete) application built using FastAPI and MySQL enhanced with LLM (Language Model) context for improved understanding and interaction. It provides a foundation for building more complex applications with a structured and maintainable codebase.
+This repository demonstrates a basic CRUD (Create, Read, Update, Delete) application built using FastAPI and MySQL.
 
 ## Table of Contents
 
@@ -16,7 +16,6 @@ This repository demonstrates a basic CRUD (Create, Read, Update, Delete) applica
 *   **CRUD Operations**: Implements standard CRUD operations for managing information.
 *   **Data Models**: Defines Pydantic models for data validation and serialization.
 *   **SQLAlchemy ORM**: Uses SQLAlchemy for interacting with the MySQL database.
-*   **LLM Context**: Demonstrates how to integrate LLM context for understanding code and generating documentation.
 
 ## Installation
 
